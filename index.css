@@ -34,12 +34,11 @@ a{
 }
 .contaier{
 	position: relative;
-	margin-bottom:2rem;
+	padding-bottom:2rem;
 }
 .tab img{width:100%;}
 #div1{
 	background:url(bg.png) repeat-y center top;
-	height: 100%;
 }
 .titleBox{
 	padding: 0.88rem 0 0.64rem;
