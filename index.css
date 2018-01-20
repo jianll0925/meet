@@ -6,13 +6,15 @@ a{
 	width:100%;bottom:0;left:0;
 	position: fixed;
 	background: #c7000b;
-	line-height: 2rem;
 	z-index: 1000;
+	
 }
 .nav li{
 	float: left;
 	width:25%;
 	height: 2rem;
+	line-height: 2rem;
+	box-sizing: border-box;
 	text-align: center;
 	border-top:1px solid #e7d5b0;
 }
