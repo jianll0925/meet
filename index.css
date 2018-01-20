@@ -1,11 +1,10 @@
-body{background-color: #c8000c;}
+body{background-color: #c8000c;position:relative;}
 a{
 	display: block;
 }
 .nav{
 	width:100%;bottom:0;left:0;
 	position: fixed;
-	height:2rem;
 	background: #c7000b;
 	line-height: 2rem;
 	z-index: 1000;
