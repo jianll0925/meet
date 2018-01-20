@@ -38,14 +38,14 @@ a{
 }
 .tab img{width:100%;}
 #div1{
-	background:url(../images/bg.png) repeat-y center top;
+	background:url(bg.png) repeat-y center top;
 	height: 100%;
 }
 .titleBox{
 	padding: 0.88rem 0 0.64rem;
 }
 #div1 .title{
-	background: url(../images/welcome.png);
+	background: url(welcome.png);
 	height: 2.8rem;
 	width: 100%;
 	background-size:100%;	
